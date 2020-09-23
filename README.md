@@ -11,4 +11,5 @@
 10) Bind the proj form to proj comptroller , assign the employees to the project by proj id. 
 11)At this point everything works fine but i canr assign multi proj to one employee , in order to handle this issue ,i have to change relationships between proj and employee by using ManyToMany annotation. 
 12) Implement Javascript components . 
-13) Set up project count for employ. 14) Conect JS compodent to the data. 15)Convert projectData object in to json structure for use in JS
+13) Set up project count for employ. 
+14) Conect JS compodent to the data. 15)Convert projectData object in to json structure for use in JS
