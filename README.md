@@ -1,4 +1,6 @@
 # trudova.github.io
+HOW THIA APPLICATION WAS CREATED:
+
 1)Create a project create an empty instance of the proj, and submit them empty instance to the model . => That will bind the html to the controller. after that create a save url, which is gonna be redirected duplicate submissions 
 2)Do all the same staps for Employee 
 3)Creating the home page ang controller for it. Binding the home page to the list of projects 
