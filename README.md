@@ -14,3 +14,4 @@
 13) Set up project count for employ. 
 14) Conect JS compodent to the data. 
 15)Convert projectData object in to json structure for use in JS
+16) Conect data base
