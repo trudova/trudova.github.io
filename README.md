@@ -22,4 +22,4 @@ HOW THIA APPLICATION WAS CREATED:
 
 In this application I used dependency such as :
 devTools, JPA, Web, H2
-Also, I used bootstrap for  
+Also, I used bootstrap for design.
