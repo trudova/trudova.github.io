@@ -19,3 +19,5 @@ HOW THIA APPLICATION WAS CREATED:
 16) Conect data base
 17) Add the bootstrap 
 18) Add css
+
+In thi application I used:
