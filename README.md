@@ -20,4 +20,4 @@ HOW THIA APPLICATION WAS CREATED:
 17) Add the bootstrap 
 18) Add css
 
-In thi application I used:
+In this application I used dependency such as :
