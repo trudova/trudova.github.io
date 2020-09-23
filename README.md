@@ -21,4 +21,4 @@ HOW THIA APPLICATION WAS CREATED:
 18) Add css
 
 In this application I used dependency such as :
-devTools,
+devTools, JPA,
